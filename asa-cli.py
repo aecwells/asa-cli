@@ -8,7 +8,7 @@ import argparse
 load_dotenv()
 
 # Configure logging
-logging.basicConfig(filename='asa_nat_update.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='asa_cli_update.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def get_env_variable(var_name):
     """

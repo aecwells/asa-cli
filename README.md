@@ -204,7 +204,7 @@ Optional:
     DOMAIN=your_default_domain
     ```
 
-2. Ensure you have logging configured. The script logs to `asa_nat_update.log` by default.
+2. Ensure you have logging configured. The script logs to `asa_cli_update.log` by default.
 
 ## Usage
 
